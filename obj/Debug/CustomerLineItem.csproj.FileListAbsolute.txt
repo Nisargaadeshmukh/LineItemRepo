@@ -1,0 +1,8 @@
+D:\first\CustomerLineItem\obj\Debug\CustomerLineItem.csproj.AssemblyReference.cache
+D:\first\CustomerLineItem\obj\Debug\CustomerLineItem.csproj.SuggestedBindingRedirects.cache
+D:\first\CustomerLineItem\obj\Debug\CustomerLineItem.csproj.CoreCompileInputs.cache
+D:\first\CustomerLineItem\bin\Debug\CustomerLineItem.exe.config
+D:\first\CustomerLineItem\bin\Debug\CustomerLineItem.exe
+D:\first\CustomerLineItem\bin\Debug\CustomerLineItem.pdb
+D:\first\CustomerLineItem\obj\Debug\CustomerLineItem.exe
+D:\first\CustomerLineItem\obj\Debug\CustomerLineItem.pdb
